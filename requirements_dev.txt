@@ -1,0 +1,3 @@
+jupyter
+ipympl
+-r requirements.txt
